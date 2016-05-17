@@ -15,19 +15,19 @@
 
 #conteudo{
 	width:700px;
-	height:270px;
+	height:300px;
 	background-color:#AAA;
 }
 
 #coluna1{
-	float: left;
+	float: right;
 	width:300px;
 }
 
 #coluna2{
-	float: right;
+	float: left;
 	width:400px;
-	text-align: right;
+	text-align: left;
 }
 
 #rodape{
