@@ -20,7 +20,7 @@
 }
 
 #coluna1{
-	float: left;
+	float: right;
 	width:300px;
 }
 
@@ -38,6 +38,7 @@
 }
 
 #img-oficina{
+	float:right;
 	margin: 20px;
 }
 
