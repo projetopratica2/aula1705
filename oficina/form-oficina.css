@@ -28,6 +28,7 @@
 	float: right;
 	width:400px;
 	text-align: right;
+	
 }
 
 #rodape{
@@ -46,6 +47,7 @@
 	background-color: #F2F2F2; 
 	padding: 20px;
 	margin: 15px;
+	
 }
 
 .botaoEntrar {
@@ -66,4 +68,10 @@
 
 .labelCampos{
 	color: #4455FF;
+}
+.input{
+	
+	background-color:black;
+	color:white;	
+	width:100px;
 }
