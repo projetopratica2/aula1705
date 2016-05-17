@@ -27,7 +27,12 @@
 #coluna2{
 	float: left;
 	width:400px;
+<<<<<<< HEAD
+	text-align: right;
+	
+=======
 	text-align: left;
+>>>>>>> d77a44425841f745f7fb4be68e15980d018aa2e6
 }
 
 #rodape{
@@ -47,6 +52,7 @@
 	background-color: #F2F2F2; 
 	padding: 20px;
 	margin: 15px;
+	
 }
 
 .botaoEntrar {
@@ -74,4 +80,13 @@
 =======
 	color: #4455FF;
 }
+<<<<<<< HEAD
+.input{
+	
+	background-color:black;
+	color:white;	
+	width:100px;
+}
+=======
 >>>>>>> 5bd26e2964f325500ba14a2afd6663848aa131c0
+>>>>>>> d77a44425841f745f7fb4be68e15980d018aa2e6
