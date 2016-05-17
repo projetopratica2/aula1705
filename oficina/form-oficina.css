@@ -8,27 +8,32 @@
 #header {
 	width:700px;
 	height:40px;
-	background-color:#FE0;
+	background-color:#FF0000;
 	font-size: 30px;
-	text-align: center;
+	text-align: right;
+	color: #FFFFFF
 }
 
 #conteudo{
 	width:700px;
-	height:270px;
+	height:300px;
 	background-color:#AAA;
 }
 
 #coluna1{
-	float: left;
+	float: right;
 	width:300px;
 }
 
 #coluna2{
-	float: right;
+	float: left;
 	width:400px;
+<<<<<<< HEAD
 	text-align: right;
 	
+=======
+	text-align: left;
+>>>>>>> d77a44425841f745f7fb4be68e15980d018aa2e6
 }
 
 #rodape{
@@ -39,6 +44,7 @@
 }
 
 #img-oficina{
+	float:right;
 	margin: 20px;
 }
 
@@ -67,11 +73,19 @@
 }
 
 .labelCampos{
+<<<<<<< HEAD
+	color: blak;
+}
+=======
 	color: #4455FF;
 }
+<<<<<<< HEAD
 .input{
 	
 	background-color:black;
 	color:white;	
 	width:100px;
 }
+=======
+>>>>>>> 5bd26e2964f325500ba14a2afd6663848aa131c0
+>>>>>>> d77a44425841f745f7fb4be68e15980d018aa2e6
