@@ -7,16 +7,22 @@
 
 #header {
 	width:700px;
-	height:40px;
+	height:60px;
 	background-color:#FE0;
 	font-size: 30px;
 	text-align: center;
 }
 
 #conteudo{
+<<<<<<< HEAD
 	width:300px;
 	height:250px;
 	background-color:#AAA;
+=======
+	width:700px;
+	height:320px;
+	background-color:#EEE;
+>>>>>>> 0b8575480ebb3e01f4e004b48155015a3b7ad1b0
 }
 
 #coluna1{
@@ -35,6 +41,13 @@
 	height:30px;
 	background-color:#FE0;
 	float:left;
+}
+
+.forCampo{
+	position:relative;
+	top:20px;
+	right:390px;
+	font-size:14px;
 }
 
 #img-oficina{
