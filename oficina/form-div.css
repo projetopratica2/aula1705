@@ -18,7 +18,12 @@
 	height:300px;
 	background-color:#AAA;
 }
-
+#conteudo2{
+    font-size: 14px;
+	width:700px;
+	height:270px;
+	background-color:#F3E2A9;
+}
 #coluna1{
 	float: left;
 	width:300px;
