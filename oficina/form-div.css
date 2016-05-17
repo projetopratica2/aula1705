@@ -7,7 +7,7 @@
 
 #header {
 	width:700px;
-	height:60px;
+	height:40px;
 	background-color:#FE0;
 	font-size: 30px;
 	text-align: center;
@@ -21,26 +21,25 @@
 
 #coluna1{
 	float: left;
-	width:300px;
+	width:350px;
+	background-color:#EEE;
 }
 
 #coluna2{
 	float: right;
-	width:400px;
+	width:350pxpx;
 	text-align: right;
+	background-color: #EEE;
 }
 
 #rodape{
 	width:700px;
 	height:30px;
-	background-color:#FE0;
-}
-
-.forCampo{
-	position:relative;
-	top:20px;
-	right:390px;
-	font-size:14px;
+	background-color:#EEE;
+	font-face:Arial;
+	font-color:#000000;
+	text-decoration:name;
+	
 }
 
 #img-oficina{

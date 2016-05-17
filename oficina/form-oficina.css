@@ -8,38 +8,42 @@
 #header {
 	width:700px;
 	height:40px;
-	background-color:#FF0000;
+	background-color:#FE0;
 	font-size: 30px;
-	text-align: right;
-	color: #FFFFFF
+	text-align: center;
 }
 
 #conteudo{
 	width:700px;
-	height:300px;
-	background-color:#AAA;
+	height:270px;
+	background-color:#EEE;
 }
 
 #coluna1{
-	float: right;
+	float: left;
 	width:300px;
+	background-color:#EEE;
 }
 
 #coluna2{
 	float: right;
 	width:400px;
 	text-align: right;
+	background-color: #EEE;
 }
 
 #rodape{
 	width:700px;
 	height:30px;
-	background-color:#FE0;
-	text-align: center;
+	background-color:#EEE;
+	text-align:center;
+	font-face:Arial;
+	font-color:#000000;
+	text-decoration:none;
+	
 }
 
 #img-oficina{
-	float:right;
 	margin: 20px;
 }
 
