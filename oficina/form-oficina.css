@@ -8,9 +8,10 @@
 #header {
 	width:700px;
 	height:40px;
-	background-color:#FE0;
+	background-color:#FF0000;
 	font-size: 30px;
-	text-align: center;
+	text-align: right;
+	color: #FFFFFF
 }
 
 #conteudo{
@@ -20,7 +21,7 @@
 }
 
 #coluna1{
-	float: left;
+	float: right;
 	width:300px;
 }
 
@@ -38,6 +39,7 @@
 }
 
 #img-oficina{
+	float:right;
 	margin: 20px;
 }
 
