@@ -1,7 +1,7 @@
 #principal {
 	/* largura do formulario todo */
 	width:700px;
-	height:370px;
+	height:300px;
 	background-color:#AAA;
 }
 
@@ -14,26 +14,60 @@
 }
 
 #conteudo{
-	width:700px;
-	height:300px;
+<<<<<<< HEAD
+	width:300px;
+	height:250px;
 	background-color:#AAA;
+=======
+	width:700px;
+	height:320px;
+	background-color:#EEE;
+>>>>>>> 0b8575480ebb3e01f4e004b48155015a3b7ad1b0
 }
-
+#conteudo2{
+    font-size: 14px;
+	width:700px;
+	height:270px;
+	background-color:#F3E2A9;
+}
 #coluna1{
 	float: left;
-	width:300px;
+	width:350px;
+	background-color:#EEE;
 }
 
 #coluna2{
+<<<<<<< HEAD
 	float: right;
+	width:350pxpx;
+=======
 	width:400px;
+	margin-left:100%;
+>>>>>>> d8b68c30ea712f50e72e8e59608011e202ea475c
 	text-align: right;
+	background-color: #EEE;
 }
 
 #rodape{
 	width:700px;
 	height:30px;
+<<<<<<< HEAD
+	background-color:#EEE;
+	font-face:Arial;
+	font-color:#000000;
+	text-decoration:name;
+	
+=======
 	background-color:#FE0;
+	float:left;
+}
+
+.forCampo{
+	position:relative;
+	top:20px;
+	right:390px;
+	font-size:14px;
+>>>>>>> d8b68c30ea712f50e72e8e59608011e202ea475c
 }
 
 #img-oficina{
@@ -41,7 +75,6 @@
 }
 
 .formLoginSenha {
-	
 	background-color: #F2F2F2; 
 	padding: 20px;
 	margin: 15px;

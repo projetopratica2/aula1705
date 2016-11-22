@@ -16,25 +16,38 @@
 #conteudo{
 	width:700px;
 	height:270px;
-	background-color:#AAA;
+	background-color:#EEE;
 }
-
 #coluna1{
 	float: left;
 	width:300px;
+	background-color:#EEE;
 }
 
 #coluna2{
-	float: right;
+	float: left;
 	width:400px;
+<<<<<<< HEAD
 	text-align: right;
+<<<<<<< HEAD
+	background-color: #EEE;
+=======
+	
+=======
+	text-align: left;
+>>>>>>> d77a44425841f745f7fb4be68e15980d018aa2e6
+>>>>>>> d8b68c30ea712f50e72e8e59608011e202ea475c
 }
 
 #rodape{
 	width:700px;
 	height:30px;
-	background-color:#FE0;
-	text-align: center;
+	background-color:#EEE;
+	text-align:center;
+	font-face:Arial;
+	font-color:#000000;
+	text-decoration:none;
+	
 }
 
 #img-oficina{
@@ -46,6 +59,7 @@
 	background-color: #F2F2F2; 
 	padding: 20px;
 	margin: 15px;
+	
 }
 
 .botaoEntrar {
@@ -58,12 +72,32 @@
 
 .camposTexto {
 	
-	width: 300px; 
-	height: 30px; 
-	font-size: 18px; 
-	color: #0B3B0B;
+	width:300px; 
+	height:30px; 
+	font-size:14px; 
+	color:navy;
+	background-color:#EEE;
+	
 }
 
 .labelCampos{
-	color: #4455FF;
+<<<<<<< HEAD
+	color: blak;
 }
+=======
+	color: #4455FF;
+<<<<<<< HEAD
+}
+=======
+}
+<<<<<<< HEAD
+.input{
+	
+	background-color:black;
+	color:white;	
+	width:100px;
+}
+=======
+>>>>>>> 5bd26e2964f325500ba14a2afd6663848aa131c0
+>>>>>>> d77a44425841f745f7fb4be68e15980d018aa2e6
+>>>>>>> d8b68c30ea712f50e72e8e59608011e202ea475c
